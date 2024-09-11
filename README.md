@@ -1,11 +1,11 @@
 # Biodiversity dynamics of Late Quaternary East African grasslands reconstructed using fossil Poaceae pollen and deep learning 
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig1_Grass_Pollen_Project.png" width="950" title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Figure_2_MountKenya_Map.png" width="950" title="hover text">
 </p>
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Figs2_4_Grass_Pollen_Project.png" width="750" title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Figures_1-4.png" width="750" title="hover text">
 </p>
   
 # Abstract
